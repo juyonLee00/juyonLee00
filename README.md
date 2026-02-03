@@ -20,13 +20,13 @@
 
 ### ▐ Projects
 
-* **3D 밸런싱 퍼즐 게임, BalancingLibra** | Dec 2025 -  | Solo Developer | Unity, C#
-* **기차 여행 스토리 기반 카페 타이쿤, TravelAroundTheWorld** | Apr 2024 - Aug 2024 | Client | Unity, C#
-* **FinalProjectPublic** | Nov 2023 - Dec 2023 | Developer | Unity, C#
-* **크라우드 펀딩 도우미, crowd_funding_helper** | Apr 2020 - Mar 2021 | Developer | Python, Spring
-* **수강신청 데이터베이스 시스템, DBProgramming_CourseRegistration** | 2022 | Back-end | MySQL
-* **네트워크 프로토콜 설계, 2022_NetworkProtocalDesign** | 2022 | Developer | C++
-* **오픈마인더 솔루션 챌린지, 2021-OpenMinder-SolutionChallenge** | 2021 | Developer | React Native
+* **BalancingLibra(3D 퍼즐 게임)** | Dec 2025 -  | Solo Developer | Unity, C#
+* **TravelAroundTheWorld(2D 비주얼 노벨 시뮬레이션)** | Apr 2024 - Aug 2024 | Client | Unity, C#
+* **FinalFrontier** | Nov 2023 - Dec 2023 | Developer | Unity, C#
+* **단문 텍스트를 이용한 크라우드 펀딩 헬퍼** | Apr 2020 - Mar 2021 | Developer | Python, Spring
+* **수강신청 데이터베이스 시스템** | 2022 | Back-end | MySQL
+* **네트워크 프로토콜 설계** | 2022 | Developer | C++
+* **2021 SolutionChallenge** | 2021 | Developer | React Native
 
 # Activities
 
@@ -40,5 +40,5 @@
 
 ### ▐ Competition Participation
 
-* **Google DeepMind - Vice Code With Gemini 3 Pro in AI Studio 참가** | 12, 2025
-* **게임개발연합 유니데브 UNICON 우수상** | Aug, 2024
+* **Google DeepMind - Vice Code With Gemini 3 Pro in AI Studio 참가** | Dec 2025
+* **게임개발연합 유니데브 UNICON 우수상** | Aug 2024
